@@ -35,7 +35,7 @@ function Navbar() {
         </Container>
       </AppBar>
       {loader && (
-        <div style={{ display: 'flex', justifyContent: 'centerF' }}>
+        <div style={{ display: 'flex', justifyContent: 'center' }}>
           <ThreeDots
             height="80"
             width="80"
